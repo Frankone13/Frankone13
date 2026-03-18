@@ -32,11 +32,10 @@
          alt="Instagram" width="40" height="40"/>
   </a>
 
-  <!-- Email -->
-  <a href="mailto:abhaydubey.on.work@email.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
-         alt="Email" width="40" height="40"/>
-  </a>
+ <a href="https://mail.google.com/mail/?view=cm&fs=1&to=abhaydubey.on.work@gmail.com" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
+       alt="Email" width="40" height="40"/>
+</a>
 
   <!-- HackerRank -->
   <a href="https://www.hackerrank.com/profile/dubeyabhay138201" target="_blank">
