@@ -24,14 +24,14 @@
 ---
 
 ## 🚀 About Me
- <p align="right">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" />
-</p>
 - 🎓 B.Tech Graduate from **NIT Raipur**
 - 📊 Passionate about **Data Analytics & SQL**
 - 🧠 Strong in writing **optimized SQL queries**
 - 📈 Love converting raw data into meaningful insights
 - 🎯 Preparing for **Data Analyst / Business Analyst roles**
+   <p align="right">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" />
+</p>
 
 ---
 
