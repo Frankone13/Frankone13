@@ -44,30 +44,39 @@
 
 ## 📫 Connect with Me
 
-<p align="left">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/abhaydubey138/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-         alt="LinkedIn" width="40" height="40"/>
-  </a>
+<table width="100%">
+<tr align="center">
 
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/the_frank_one/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"
-         alt="Instagram" width="40" height="40"/>
-  </a>
+<td>
+<a href="https://www.linkedin.com/in/abhaydubey138/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+       alt="LinkedIn" width="40" height="40"/>
+</a>
+</td>
 
- <a href="https://mail.google.com/mail/?view=cm&fs=1&to=abhaydubey.on.work@gmail.com" target="_blank">
+<td>
+<a href="https://www.instagram.com/the_frank_one/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"
+       alt="Instagram" width="40" height="40"/>
+</a>
+</td>
+
+<td>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=abhaydubey.on.work@gmail.com" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
        alt="Email" width="40" height="40"/>
 </a>
+</td>
 
-  <!-- HackerRank -->
-  <a href="https://www.hackerrank.com/profile/dubeyabhay138201" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png"
-         alt="HackerRank" width="40" height="40"/>
-  </a>
-</p>
+<td>
+<a href="https://www.hackerrank.com/profile/dubeyabhay138201" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png"
+       alt="HackerRank" width="40" height="40"/>
+</a>
+</td>
+
+</tr>
+</table>
 
 
 ## 📂 My Projects
