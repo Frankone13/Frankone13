@@ -7,6 +7,10 @@
 </p>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?
   lines=Data+Analyst;SQL+Developer;Python+Enthusiast;Always+Learning
   &center=true&width=500&height=50">
@@ -63,8 +67,8 @@
 
 <td>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=abhaydubey.on.work@gmail.com" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
-       alt="Email" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png"
+       alt="Gmail" width="40" height="40"/>
 </a>
 </td>
 
