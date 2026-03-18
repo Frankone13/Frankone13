@@ -82,19 +82,8 @@
 </tr>
 </table>
 
-
-## 📂 My Projects
-
-- 📊 **IPL_EDA_Project(Python)**  
-  🔗 [View Repository](https://github.com/Frankone13/IPL_EDA_Project)  
- 
-- 📈 **Sales Analysis Dashboard (Power BI)**  
-  🔗 [View Repository](https://github.com/Frankone13/Sales_Analysis_Project)    
-
-
-
+    
 ## ⭐ Fun Fact
-> “Good SQL is not about writing queries —  
-> it’s about **thinking in sets**.”
+> “Good SQL is not about writing queries — it’s about **thinking in sets**.”
 
 ---
