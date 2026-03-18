@@ -17,6 +17,34 @@
 
 ---
 
+## 📫 Connect with Me
+
+<p align="left">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/abhaydubey138/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+         alt="LinkedIn" width="40" height="40"/>
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/the_frank_one/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"
+         alt="Instagram" width="40" height="40"/>
+  </a>
+
+  <!-- Email -->
+  <a href="mailto:abhaydubey.on.work@email.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
+         alt="Email" width="40" height="40"/>
+  </a>
+
+  <!-- HackerRank -->
+  <a href="https://www.hackerrank.com/profile/dubeyabhay138201" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png"
+         alt="HackerRank" width="40" height="40"/>
+  </a>
+</p>
+
 ## 🛠️ Skills & Tools
 
 ### 💾 Databases & Querying
@@ -70,11 +98,6 @@
   → Interactive dashboards with KPIs and insights  
 
 
-## 📫 Connect With Me
-- 💼 LinkedIn: [https://linkedin.com/in/your-link](https://www.linkedin.com/in/abhaydubey138/)
-- 📧 Email: abhaydubey.on.work@email.com
-
----
 
 ## ⭐ Fun Fact
 > “Good SQL is not about writing queries —  
