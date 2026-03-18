@@ -7,11 +7,6 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" />
-</p>
-
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?
   lines=Data+Analyst;SQL+Developer;Python+Enthusiast;Always+Learning
   &center=true&width=500&height=50">
@@ -35,11 +30,13 @@
 - 📈 Love converting raw data into meaningful insights
 - 🎯 Preparing for **Data Analyst / Business Analyst roles**
 
----
-
-<p align="right">
+- <p align="right">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" />
 </p>
+
+---
+
+
 
 ## 📫 Connect with Me
 
@@ -68,32 +65,14 @@
   </a>
 </p>
 
-## 🛠️ Skills & Tools
-
-### 💾 Databases & Querying
-![SQL](https://img.shields.io/badge/SQL-MySQL-blue)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Advanced-blue)
-
-### 🐍 Programming & Analysis
-![Python](https://img.shields.io/badge/Python-Pandas-yellow)
-![NumPy](https://img.shields.io/badge/NumPy-Data%20Analysis-lightblue)
-
-### 📊 Visualization & BI
-![Power BI](https://img.shields.io/badge/PowerBI-Dashboards-orange)
-![Excel](https://img.shields.io/badge/Excel-Advanced-green)
-
----
-
 
 ## 📂 My Projects
 
 - 📊 **IPL_EDA_Project(Python)**  
   🔗 [View Repository](https://github.com/Frankone13/IPL_EDA_Project)  
-  → Covers JOINs, GROUP BY, HAVING, subqueries, and interview patterns  
-
+ 
 - 📈 **Sales Analysis Dashboard (Power BI)**  
-  🔗 [View Repository](https://github.com/Frankone13/Sales_Analysis_Project)  
-  → Interactive dashboards with KPIs and insights  
+  🔗 [View Repository](https://github.com/Frankone13/Sales_Analysis_Project)    
 
 
 
