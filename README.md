@@ -23,7 +23,7 @@
 
 ## 🚀 About Me
 
-<table width="100%">
+<table width="150%">
 <tr>
 <td width="75%" align="left">
 
