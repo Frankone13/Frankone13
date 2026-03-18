@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" />
+  <img src="https://giphy.com/gifs/life-hacker-Ah3zHH7hvsSB2" width="100%" />
 </p>
 
 <p align="center">
