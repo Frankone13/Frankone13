@@ -22,11 +22,11 @@
 ![Excel](https://img.shields.io/badge/Excel-Advanced-green)
 
 ---
-  <p align="right">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" />
-</p>
 
 ## 🚀 About Me
+ <p align="right">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" />
+</p>
 - 🎓 B.Tech Graduate from **NIT Raipur**
 - 📊 Passionate about **Data Analytics & SQL**
 - 🧠 Strong in writing **optimized SQL queries**
