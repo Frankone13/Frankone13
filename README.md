@@ -23,9 +23,10 @@
 
 ## 🚀 About Me
 
-<table width="150%">
+<table width="100%">
 <tr>
-<td width="75%" align="left">
+
+<td width="80%" align="left">
 
 - 🎓 B.Tech Graduate from **NIT Raipur**
 - 📊 Passionate about **Data Analytics & SQL**
@@ -34,11 +35,13 @@
 - 🎯 Preparing for **Data Analyst / Business Analyst roles**
 
 </td>
-<td width="20%" align="right">
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200"/>
+<td width="5%"></td>
 
+<td width="15%" align="right">
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="170"/>
 </td>
+
 </tr>
 </table>
 
