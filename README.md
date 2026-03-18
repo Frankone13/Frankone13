@@ -6,6 +6,26 @@
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" />
+</p>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?
+  lines=Data+Analyst;SQL+Developer;Python+Enthusiast;Always+Learning
+  &center=true&width=500&height=50">
+</p>
+
+
+## 🛠️ Skills
+
+![SQL](https://img.shields.io/badge/SQL-MySQL-blue)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Advanced-blueviolet)
+![Python](https://img.shields.io/badge/Python-Pandas-yellow)
+![PowerBI](https://img.shields.io/badge/PowerBI-Analytics-orange)
+![Excel](https://img.shields.io/badge/Excel-Advanced-green)
+
 ---
 
 ## 🚀 About Me
@@ -16,6 +36,10 @@
 - 🎯 Preparing for **Data Analyst / Business Analyst roles**
 
 ---
+
+<p align="right">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" />
+</p>
 
 ## 📫 Connect with Me
 
