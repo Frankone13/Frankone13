@@ -34,7 +34,7 @@
 - 🎯 Preparing for **Data Analyst / Business Analyst roles**
 
 </td>
-<td width="25%" align="right">
+<td width="20%" align="right">
 
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200"/>
 
