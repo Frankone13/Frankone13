@@ -22,6 +22,9 @@
 ![Excel](https://img.shields.io/badge/Excel-Advanced-green)
 
 ---
+  <p align="right">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" />
+</p>
 
 ## 🚀 About Me
 - 🎓 B.Tech Graduate from **NIT Raipur**
@@ -29,10 +32,6 @@
 - 🧠 Strong in writing **optimized SQL queries**
 - 📈 Love converting raw data into meaningful insights
 - 🎯 Preparing for **Data Analyst / Business Analyst roles**
-
-- <p align="right">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" />
-</p>
 
 ---
 
