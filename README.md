@@ -21,21 +21,26 @@
 ![PowerBI](https://img.shields.io/badge/PowerBI-Analytics-orange)
 ![Excel](https://img.shields.io/badge/Excel-Advanced-green)
 
----
-
 ## 🚀 About Me
+
+<table>
+<tr>
+<td width="70%">
+
 - 🎓 B.Tech Graduate from **NIT Raipur**
 - 📊 Passionate about **Data Analytics & SQL**
 - 🧠 Strong in writing **optimized SQL queries**
 - 📈 Love converting raw data into meaningful insights
 - 🎯 Preparing for **Data Analyst / Business Analyst roles**
-   <p align="right">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" />
-</p>
 
----
+</td>
+<td width="30%" align="right">
 
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200"/>
 
+</td>
+</tr>
+</table>
 
 ## 📫 Connect with Me
 
