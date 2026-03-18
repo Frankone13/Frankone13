@@ -60,31 +60,6 @@
 
 ---
 
-## 📂 Featured Projects
-- 📊 **Customer Purchase Analysis (SQL)**  
-  → Complex joins, GROUP BY, HAVING, subqueries  
-
-- 📈 **Sales Dashboard (Power BI)**  
-  → Interactive dashboards & KPIs  
-
-- 🧠 **LeetCode SQL Solutions**  
-  → Interview-focused SQL problems  
-
-- 🔍 **Data Cleaning with Python**  
-  → Pandas, missing values, transformations  
-
----
-
-## 🧠 SQL Concepts I Master
-- SELECT, WHERE, GROUP BY, HAVING  
-- COUNT vs COUNT DISTINCT  
-- INNER / LEFT / SELF JOIN  
-- CASE WHEN logic  
-- Subqueries & correlated subqueries  
-- NULL handling  
-- Interview query patterns  
-
----
 
 ## 📂 My Projects
 
