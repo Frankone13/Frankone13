@@ -36,7 +36,7 @@
 
 </td>
 
-<td width="5%"></td>
+<td width="20%"></td>
 
 <td width="15%" align="right">
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="170"/>
