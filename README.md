@@ -59,21 +59,16 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📂 My Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
-</p>
+- 📊 **IPL_EDA_Project(Python)**  
+  🔗 [View Repository](https://github.com/Frankone13/IPL_EDA_Project)  
+  → Covers JOINs, GROUP BY, HAVING, subqueries, and interview patterns  
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
-</p>
+- 📈 **Sales Analysis Dashboard (Power BI)**  
+  🔗 [View Repository](https://github.com/Frankone13/Sales_Analysis_Project)  
+  → Interactive dashboards with KPIs and insights  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 📫 Connect With Me
 - 💼 LinkedIn: [https://linkedin.com/in/your-link](https://www.linkedin.com/in/abhaydubey138/)
@@ -86,8 +81,3 @@
 > it’s about **thinking in sets**.”
 
 ---
-
-### 🔔 Recruiter Note
-✔ Strong SQL fundamentals  
-✔ Interview-ready problem solving  
-✔ Hands-on analytics mindset  
